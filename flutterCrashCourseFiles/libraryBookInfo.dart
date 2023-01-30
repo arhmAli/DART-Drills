@@ -1,5 +1,6 @@
 import 'dart:math';
-
+// In the below program we determine wether the capacity of the library
+// is feasible enough to accomodate certain number of bookks in the shelf
 void main() {
   var capacity=40;
   print("The capacity of the libray is $capacity");
